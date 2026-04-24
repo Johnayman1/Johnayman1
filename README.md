@@ -6,7 +6,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="center">
-- 🌱 I’m currently learning <b>ReactJS, NextJS, tailwind</b>
+- 🌱 I’m currently mastering <b>Mern Stack</b>
 </p>
 <p align="center">
 - 📫 How to reach me <b>johnayman03@gmail.com</b>
